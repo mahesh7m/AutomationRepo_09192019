@@ -11,6 +11,7 @@ public class TestAccessModAtProjectLevel extends AccessModifiers {
 		
 		TestAccessModAtProjectLevel obj2= new TestAccessModAtProjectLevel();
 		obj2.protectedFunction();
+		
 
 	}
 
