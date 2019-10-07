@@ -26,5 +26,4 @@ public class PNB implements RBI {
 		System.out.println("Creadit Card from PNB");
 	}
 
-	
 }
