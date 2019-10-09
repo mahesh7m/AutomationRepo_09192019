@@ -1,5 +1,12 @@
 package ExceptionHandling;
 
-public class B {
+public class B extends A {
+	public static void main(String[] args)
+	{
 
+	}
+
+{
+	
+}
 }

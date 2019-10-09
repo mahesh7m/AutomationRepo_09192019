@@ -2,11 +2,14 @@ package ExceptionHandling;
 
 public class ThrowKeyWord {
 
-	public static void main(String[] args)
+	public static void main(String[] args) throw Exception
+	
 
 	{
 
 		System.out.println();
+		
+		divide(10,0);
 
 	}
 
