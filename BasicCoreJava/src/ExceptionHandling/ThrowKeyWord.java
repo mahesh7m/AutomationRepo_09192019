@@ -2,18 +2,18 @@ package ExceptionHandling;
 
 public class ThrowKeyWord {
 
-	public static void main(String[] args) throw Exception
+	public static void main(String[] args) throws Exception
 	
 
 	{
 
 		System.out.println();
 		
-		divide(10,0);
+		divident(10,0);
 
 	}
 
-	public int divident(int divident, int divisor) throws Exception {
+	public static int divident(int divident, int divisor) throws Exception {
 		int ret = 0;
 
 		if (divisor > 0) {
